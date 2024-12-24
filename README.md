@@ -1,23 +1,23 @@
 <h1 align="center" style="color:#fff;">Hey Everyone 👋, I'm Jiahui Ma</h1>
 
 <div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.png" alt="Banner">
+  <img src="https://github.com/dsnasn/dsnasn/blob/main/screenshot-20241224-181305.png" alt="Banner">
 </div>
 
-<h3 align="center" style="color:#fff;">A passionate DevOps Engineer from India. I work in the Corporate IT Sector, and in my free time, I create YouTube videos at <a href="https://www.youtube.com/@devopsshack" style="color:#88C0D0;">DevOps Shack</a>.</h3>
+<h3 align="center" style="color:#fff;">Master in Computer Science | University of Glasgow</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=dsnasn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 ### 👨‍💻 Projects & Skills
-- 🚀 All of my projects are available at [My GitHub Repositories](https://github.com/jaiswaladi246).
-- 💬 Ask me about **DevOps & Cloud DevOps**.
-- 📫 Reach me via email: **[Your Email]**
+- 🚀 All of my projects are available at [My GitHub Repositories](https://github.com/dsnasn).
+- 💬 Fond of **Data Science**.
+- 📫 Reach me via email: **majiahui821@gmail.com**
 
 ---
 
@@ -66,5 +66,5 @@
 ---
 
 <p align="center" style="color:#88C0D0;">
-  Made with ❤️ by Aditya Jaiswal
+  Love You ❤️
 </p>
