@@ -1,9 +1,5 @@
 <h1 align="center" style="color:#fff;">Hey Everyone 👋, I'm Jiahui Ma</h1>
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x200/2E3440/88C0D0?text=Welcome+to+My+Profile" alt="Banner">
-</div>
-
 <h3 align="center" style="color:#d3d3d3;">🌟 Master in Computer Science | University of Glasgow 🌟</h3>
 
 <p align="center" style="color:#a9a9a9; font-size: 16px;">
