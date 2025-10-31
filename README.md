@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#fff;">Hey Everyone 👋, I'm Jiahui Ma</h1>
+<h1 align="center" style="color:#fff;">Hey Everyone 👋, I'm Jiahui(Katie) Ma</h1>
 
 <h3 align="center" style="color:#d3d3d3;">🌟 Master in Computer Science | University of Glasgow 🌟</h3>
 
