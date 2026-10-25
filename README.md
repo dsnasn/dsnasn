@@ -2,23 +2,23 @@
 <h1 align="center">Hey Everyone 👋, I'm Jiahui (Katie) Ma</h1>
 
 <h3 align="center">
-  💻 Operations Analyst @ Barclays | MSc Computing Science, University of Glasgow
+  💻 Computing Science Graduate | University of Glasgow
 </h3>
 
 <p align="center">
-  With a background in <b>Computing Science and Software Engineering</b>, 
-  I'm passionate about exploring how technology, data and intelligent systems 
+  With a background in <b>Computing Science and Software Engineering</b>,
+  I'm passionate about exploring how technology, data and intelligent systems
   can solve real-world problems.
   <br><br>
-  Currently working as an <b>Operations Analyst at Barclays</b>, 
-  while continuing to develop my technical skills and explore opportunities 
-  in <b>Data Science, Machine Learning and Artificial Intelligence</b>.
+  I'm particularly interested in <b>Data Science, Machine Learning
+  and Artificial Intelligence</b>, with a focus on applying technical
+  knowledge to practical challenges through hands-on projects.
   <br><br>
   🚀 Always learning, experimenting and building along the way!
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=88C0D0&center=true&width=650&lines=Computing+Science+Graduate;Operations+Analyst+%40+Barclays;Exploring+Data+Science+%26+AI;Learning%2C+Building+%26+Growing!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=88C0D0&center=true&width=650&lines=Computing+Science+Graduate;Exploring+Data+Science+%26+AI;Passionate+About+Technology;Learning%2C+Building+%26+Growing!" alt="Typing Animation">
 </div>
 
 ---
@@ -29,10 +29,10 @@
 
 ### 👩‍💻 About Me
 
-- 💼 **Currently working as:** Operations Analyst at Barclays, focusing on financial operations, data integrity, reconciliation and issue investigation.
 - 🎓 **Education:** MSc in Computing Science from the University of Glasgow, with a background in Software Engineering.
 - 🧠 **Interested in:** Data Science, Machine Learning, Artificial Intelligence and technology-driven problem solving.
 - 🌱 **Currently exploring:** Applied Machine Learning, AI technologies and practical software development.
+- 💡 **What I enjoy:** Solving real-world problems through data analysis, programming and intelligent systems.
 - 🚀 **My goal:** To continuously strengthen my technical expertise through hands-on projects, experimentation and lifelong learning.
 - 📂 **My projects:** [Explore my GitHub repositories](https://github.com/dsnasn)
 - 📫 **Reach me:** **majiahui821@gmail.com**
@@ -68,13 +68,14 @@
 ### 🚀 Featured Projects
 
 **🩺 Breast Cancer Histopathology Classification**
-- Deep learning image classification using **DenseNet121**.
+- Developed a deep learning image classification model using **DenseNet121**.
 - Achieved **95% classification accuracy**.
 - Built an interactive **Streamlit** application for model inference.
 
 **💳 Financial Fraud Detection**
-- Exploring transaction fraud detection using **Python, Scikit-learn and XGBoost**.
-- Focusing on data preprocessing, imbalanced classification, model evaluation and explainability.
+- Applied **Python, Scikit-learn and XGBoost** to transaction fraud detection.
+- Explored data preprocessing, imbalanced classification and model evaluation.
+- Focused on identifying fraudulent transaction patterns and improving model interpretability.
 
 📌 More projects and experiments coming as I continue learning!
 
